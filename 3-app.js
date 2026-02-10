@@ -56,4 +56,4 @@ let user = {
 };
 console.table(user);
    //array
- let  language: ('uzbek')
+ let  language = ['uzbek'];
